@@ -1,0 +1,23 @@
+{
+  "name": "portifolio",
+  "version": "1.0.0",
+  "description": "My portifolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raphael-Soares/Portifolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raphael-Soares/Portifolio/issues"
+  },
+  "homepage": "https://github.com/Raphael-Soares/Portifolio#readme",
+  "devDependencies": {
+    "sass": "^1.57.1"
+  }
+}
